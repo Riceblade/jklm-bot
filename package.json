@@ -1,0 +1,18 @@
+{
+  "name": "jklmbot",
+  "version": "1.0.0",
+  "description": "bot for jklm",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/."
+  },
+  "keywords": [],
+  "author": "Riceblades11",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt": "^1.1.2",
+    "an-array-of-english-words": "^2.0.0",
+    "prompt": "^1.2.0",
+    "puppeteer": "^13.0.1"
+  }
+}
