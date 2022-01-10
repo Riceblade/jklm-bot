@@ -1,8 +1,3 @@
-| Example                                                                                              |
-| ------------------------------------------------------------------------------------------------- |
-| ![Example](https://cdn.discordapp.com/attachments/925506907337289789/930167475541278790/speed.gif) |
-
-
 ## Features:
 
 1. `Auto ready`
@@ -21,10 +16,22 @@
 
 
 
-# jklm-bot
+# Set-up
 
 Very bad jklm.fun bot made withi puppeteer and typescript.
 
-run `npm start` to start
-
 run `tsc` to build
+
+run the following:
+`npm install an-array-of-english-words`
+`npm install prompt`
+`npm install puppeteer`
+
+# Start
+1. `cd dist`
+2. `node index.js`
+3. Paste your link
+4. have fun
+
+
+Shoutout to jonah
