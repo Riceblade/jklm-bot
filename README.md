@@ -15,7 +15,7 @@
 
 | Word Bot                                                                                                        | Auto Wait & Ready                                                                                                           | Auto Big Words                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![Word Bot](https://media.discordapp.net/attachments/925506907337289789/930167475541278790/speed.gif) | ![Auto Big Words](https://cdn.discordapp.com/attachments/925506907337289789/930168497131098182/chrome_By8UaqKO9Y.gif) | ![Auto Wait & Ready](https://cdn.discordapp.com/attachments/925506907337289789/930169357810692146/speed.gif) |
+| ![Word Bot](https://cdn.discordapp.com/attachments/925506907337289789/930170143819046992/speed.gif) | ![Auto Big Words](https://cdn.discordapp.com/attachments/925506907337289789/930168497131098182/chrome_By8UaqKO9Y.gif) | ![Auto Wait & Ready](https://cdn.discordapp.com/attachments/925506907337289789/930169357810692146/speed.gif) |
 
 
 
